@@ -1,0 +1,4 @@
+baseURL = 'http://blog.brettmcgin.com'
+languageCode = 'en-us'
+title = "Brick's Blog"
+theme = 'papermod'
